@@ -10,7 +10,7 @@ O objetivo principal da aplicação é aplicar os conceitos fundamentais da modu
 
 - **Modularização em Python**: Divisão do código em pacotes e módulos independentes (`tutor.py`, `consulta.py`, etc.).
 - **Reutilização e Coesão**: Importação de funções e utilitários compartilhados (`from modulo import ...`) evitando duplicação de código.
-- **Abstração e Organização**: Separação clara entre a interface de usuário (CLI ou interface gráfica) e as regras de negócio/persistência.
+- **Abstração e Organização**: Separação clara entre a interface de usuário, e as regras de negócio.
 - **Manutenibilidade**: Código limpo e estruturado que facilita a manutenção e adição de novas funcionalidades.
 
 ---
